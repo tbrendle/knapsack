@@ -2,7 +2,8 @@ Small lib used to solve Knapsack problems
 =========================================
 
 Numpy is required 
-KS with 10000 items and a capacity of 1000000 takes ~10s to compute on MacBook Air 2011.
+
+KS with 10000 items (avg size of 100000) and a capacity of 1000000 takes ~10s to compute on MacBook Air 2011.
 
 How to use ? 
 ============ 
